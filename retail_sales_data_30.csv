@@ -1,0 +1,31 @@
+Order_ID,Date,Customer_ID,Gender,Age,Product,Category,Quantity,Unit_Price,Unit_Cost,Discount,Sales,Profit,Payment_Mode,Store_Location
+ORD001,2025-07-31,CUST016,Male,31,Cooking Oil,Groceries,2,155.6,122.5,0.1,280.08,35.08,Cash,Delhi
+ORD002,2025-11-15,CUST017,Male,32,Face Wash,Beauty,1,226.54,104.66,0.1,203.89,99.23,Cash,Faridabad
+ORD003,2025-12-28,CUST009,Female,42,T-Shirt,Clothing,1,650.3,281.5,0.0,650.3,368.8,Debit Card,Gurugram
+ORD004,2025-12-30,CUST017,Female,25,Keyboard,Electronics,2,944.01,466.33,0.05,1793.62,860.96,Debit Card,Delhi
+ORD005,2025-06-12,CUST001,Female,56,Face Wash,Beauty,2,220.33,104.65,0.0,440.66,231.36,Cash,Faridabad
+ORD006,2025-12-01,CUST020,Female,18,Perfume,Beauty,2,1249.61,682.33,0.05,2374.26,1009.6,UPI,Delhi
+ORD007,2025-11-18,CUST005,Male,47,Shampoo,Beauty,1,305.96,161.56,0.05,290.66,129.1,Debit Card,Noida
+ORD008,2025-10-30,CUST019,Other,58,Face Wash,Beauty,1,228.37,105.1,0.0,228.37,123.27,Credit Card,Faridabad
+ORD009,2025-06-22,CUST002,Other,47,T-Shirt,Clothing,2,652.67,280.22,0.05,1240.07,679.63,UPI,Ghaziabad
+ORD010,2025-11-15,CUST012,Other,33,Speaker,Electronics,1,2103.04,1334.83,0.05,1997.89,663.06,Cash,Faridabad
+ORD011,2025-05-27,CUST008,Female,39,Speaker,Electronics,1,2305.32,1362.15,0.1,2074.79,712.64,Debit Card,Faridabad
+ORD012,2025-08-09,CUST008,Male,29,Bedsheet,Home & Kitchen,2,1061.59,616.3,0.05,2017.02,784.42,Debit Card,Ghaziabad
+ORD013,2025-05-29,CUST020,Female,18,Cooking Oil,Groceries,1,155.44,127.15,0.0,155.44,28.29,UPI,Delhi
+ORD014,2025-04-20,CUST010,Other,63,Moisturizer,Beauty,3,462.32,258.63,0.05,1317.61,541.72,Debit Card,Ghaziabad
+ORD015,2025-04-13,CUST003,Other,29,Bedsheet,Home & Kitchen,3,1066.17,646.53,0.05,3038.58,1098.99,Cash,Delhi
+ORD016,2025-07-21,CUST002,Female,36,Perfume,Beauty,1,1267.7,704.88,0.1,1140.93,436.05,Credit Card,Noida
+ORD017,2025-09-18,CUST001,Female,54,Water Bottle,Home & Kitchen,1,363.17,139.55,0.0,363.17,223.62,Cash,Faridabad
+ORD018,2025-07-19,CUST017,Male,19,Moisturizer,Beauty,1,457.21,246.8,0.1,411.49,164.69,Credit Card,Faridabad
+ORD019,2025-02-09,CUST014,Male,38,Lamp,Home & Kitchen,1,744.62,360.85,0.15,632.93,272.08,Cash,Delhi
+ORD020,2025-11-15,CUST019,Other,42,Biscuits,Groceries,1,40.73,21.68,0.05,38.69,17.01,Cash,Delhi
+ORD021,2025-12-31,CUST004,Other,45,Sugar 1kg,Groceries,2,57.38,39.92,0.1,103.28,23.44,Debit Card,Ghaziabad
+ORD022,2025-10-02,CUST020,Female,18,Bedsheet,Home & Kitchen,3,1091.08,639.55,0.0,3273.24,1354.59,Debit Card,Ghaziabad
+ORD023,2025-12-14,CUST011,Female,27,Cap,Clothing,2,409.03,145.9,0.1,736.25,444.45,Debit Card,Delhi
+ORD024,2025-03-14,CUST018,Female,45,Jacket,Clothing,1,2756.9,1723.94,0.0,2756.9,1032.96,UPI,Gurugram
+ORD025,2025-02-02,CUST020,Female,25,Water Bottle,Home & Kitchen,1,348.06,146.73,0.0,348.06,201.33,UPI,Gurugram
+ORD026,2025-07-08,CUST017,Male,38,Lamp,Home & Kitchen,2,768.21,362.9,0.1,1382.78,656.98,UPI,Gurugram
+ORD027,2025-09-18,CUST019,Other,25,Moisturizer,Beauty,3,459.3,248.25,0.0,1377.9,633.15,Debit Card,Ghaziabad
+ORD028,2025-07-09,CUST007,Female,52,Cookware Set,Home & Kitchen,4,1958.15,1170.29,0.0,7832.6,3151.44,Cash,Noida
+ORD029,2025-04-19,CUST007,Other,26,Jeans,Clothing,2,1484.74,776.23,0.15,2524.06,971.6,UPI,Delhi
+ORD030,2025-01-19,CUST015,Female,46,Lamp,Home & Kitchen,1,775.51,346.05,0.1,697.96,351.91,Credit Card,Ghaziabad
