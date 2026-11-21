@@ -1,3 +1,12 @@
+NAME: divyanshu
+ADMISSION NO:2026b15410136
+Branch:DS-2
+Program name:Data analytics
+Project: Project1- Reatail sales performance analysis
+Git Repository-https://github.com/kesarwanidivyanshu69-stack/HCL_projects.git
+
+
+
 # Retail Store Sales Analysis – 30 Records
 
 ## Introduction
