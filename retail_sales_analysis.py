@@ -1,3 +1,9 @@
+Name:Divyanshu kesarwani
+addmission no. 2026b15410136
+Git link :https://github.com/kesarwanidivyanshu69-stack/HCL_projects.git
+
+
+
 """Retail Store Sales Analysis using 30 sample transactions."""
 import pandas as pd
 import matplotlib.pyplot as plt
